@@ -28,7 +28,7 @@ First, you need Go, at least version 1.22.
 Then clone this repo with
 
 ````
-git clone https://github/namularbre/autoUpload.git
+git clone https://github.com/Namularbre/fileUpload.git
 ````
 
 Install all the dependencies with
