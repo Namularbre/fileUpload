@@ -4,7 +4,7 @@ Auto upload is a program that auto upload all files in a specified directory int
 
 ## Installation:
 
-Fill the .env with correct information (the one here are good for local development only)
+Create a .env file and fill it with correct information (the one here are good for local development only)
 
 ````
 MINIO_ENDPOINT=127.0.0.1:9000 #The API endpoint of your minio
